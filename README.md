@@ -6,7 +6,7 @@ Bem-vindo ao meu projeto de introdução à lógica de programação com JavaScr
 
 ## Sobre o Projeto
 
-Este projeto é uma aplicação web simples desenvolvida para introduzir os conceitos básicos de lógica de programação utilizando JavaScript. 
+Aqui fiz alguns projetos simples de lógica no desafio da rocketseat para introduzir os conceitos básicos de lógica de programação utilizando JavaScript. 
 ---
 
 ## Funcionalidades
