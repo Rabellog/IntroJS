@@ -11,7 +11,6 @@ Este projeto é uma aplicação web simples desenvolvida para introduzir os conc
 
 ## Funcionalidades
 
-- Manipulação do DOM com JavaScript.
 - Resposta a eventos de usuário como cliques e entradas de teclado.
 - Implementação de lógica básica para criar interatividade na página web.
 
